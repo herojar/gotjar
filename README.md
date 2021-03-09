@@ -1,1 +1,1 @@
-# gotjar
+# gotjar - `pandemic edition`
